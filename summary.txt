@@ -1,0 +1,13 @@
+Scan Summary - May 29, 2025
+---------------------------
+Tool: Nrssus Essentials 
+Target: 127.0.0.1 
+Scan Duration: 8 minutes 
+Findings: 
+    - Medium: 2 
+    - Info: 21 
+    - Critical/High/Low: 0
+
+Key Issues: 
+    - SMB Signing not enforced 
+    - SSL Certificate untrusted
